@@ -1,0 +1,4 @@
+Day,LoadTime,BounceRate,Sessions
+1,0.8,42,1200
+2,0.7,40,1500
+3,0.9,45,1100

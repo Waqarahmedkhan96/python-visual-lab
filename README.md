@@ -1,12 +1,3 @@
-# Python Visual Lab 🐍
-
-A collection of Python projects demonstrating **basic programming concepts, animations, data visualization, and algorithm analysis**.  
-This repository is designed for learning, experimentation, and visual understanding of core computer science topics.
-
----
-
-## 📂 Project Structure
-
 ```text
 PYTHON-VISUAL-LAB
 │
@@ -25,8 +16,12 @@ PYTHON-VISUAL-LAB
 │
 ├── 02_data_viz
 │   ├── population_tables
-│   └── stock_market_charts
+│   ├── stock_market_charts
+│   └── graph
 │
-└── 03_algorithm_analysis
-    ├── search_time_comparison
-    └── sorting_complexity_chart
+├── 03_algorithm_analysis
+│   ├── search_time_comparison
+│   └── sorting_complexity_chart
+│
+└── 04_dashboards
+    └── analytics_dashboard
